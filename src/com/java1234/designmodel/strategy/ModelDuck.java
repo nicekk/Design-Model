@@ -1,8 +1,8 @@
-package com.bench.app.duck;
+package com.java1234.designmodel.strategy;
 
-import com.bench.app.duck.impl.FlyRocketPowered;
-import com.bench.app.duck.impl.FlyWithNoWay;
-import com.bench.app.duck.impl.Quack;
+import com.java1234.designmodel.strategy.impl.FlyRocketPowered;
+import com.java1234.designmodel.strategy.impl.FlyWithNoWay;
+import com.java1234.designmodel.strategy.impl.Quack;
 
 /**
  * Ä£ÐÍÑ¼×Ó¡£

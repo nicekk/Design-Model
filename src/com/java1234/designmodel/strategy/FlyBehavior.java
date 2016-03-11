@@ -1,4 +1,4 @@
-package com.bench.app.duck;
+package com.java1234.designmodel.strategy;
 
 /**
  * ·ÉÐÐÐÐÎª

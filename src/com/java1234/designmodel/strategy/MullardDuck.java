@@ -1,7 +1,7 @@
-package com.bench.app.duck;
+package com.java1234.designmodel.strategy;
 
-import com.bench.app.duck.impl.FlyWithWings;
-import com.bench.app.duck.impl.Quack;
+import com.java1234.designmodel.strategy.impl.FlyWithWings;
+import com.java1234.designmodel.strategy.impl.Quack;
 
 public class MullardDuck extends Duck {
 

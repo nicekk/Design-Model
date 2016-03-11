@@ -1,6 +1,6 @@
-package com.bench.app.duck.impl;
+package com.java1234.designmodel.strategy.impl;
 
-import com.bench.app.duck.FlyBehavior;
+import com.java1234.designmodel.strategy.FlyBehavior;
 
 /**
  * Ñ¹¸ù²»»á·É

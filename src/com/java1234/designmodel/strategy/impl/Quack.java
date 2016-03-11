@@ -1,6 +1,6 @@
-package com.bench.app.duck.impl;
+package com.java1234.designmodel.strategy.impl;
 
-import com.bench.app.duck.QuackBehavior;
+import com.java1234.designmodel.strategy.QuackBehavior;
 
 public class Quack implements QuackBehavior {
 
