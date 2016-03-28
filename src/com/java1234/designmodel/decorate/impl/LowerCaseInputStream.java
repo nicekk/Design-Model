@@ -23,5 +23,4 @@ public class LowerCaseInputStream extends BufferedInputStream{
 		}
 		return result;
 	}
-
 }
